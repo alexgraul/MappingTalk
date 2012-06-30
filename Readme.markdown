@@ -51,6 +51,8 @@ ModestMaps
 
 **Code:** https://github.com/mbostock/d3
 
+**Awesome easing:** http://mapbox.com/easey/
+
 D3
 -----
 
