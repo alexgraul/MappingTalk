@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Test Viewer</title>
+    <link rel="stylesheet" href="colorbrewer.css" type="text/css">
+    <style>
+      #chart {
+        margin: 0 auto;
+        width: 600px;
+      }
+
+      svg {
+        background: #fff;
+        border: 1px solid #eee;
+        width: 600px;
+        height: 500px;
+      }
+
+      #countries path {
+        stroke: #fff;
+        stroke-width: .25px;
+      }
+
+      #states path {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id='chart'></div>
+    <script src="../lib/jquery-1.7.2.min.js"></script>
+    <script src="d3.v2.min.js "></script>
+    <script src="example-map.js"></script>
+  </body>
+</html>

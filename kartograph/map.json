@@ -1,0 +1,6 @@
+{"layers" : [{
+  "id": "countries",
+    "src" : "shp/TM_WORLD_BORDERS-0.3.shp",
+    "attributes" : ["ISO3", "ISO2", "Area"]
+}]
+}

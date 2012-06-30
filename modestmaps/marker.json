@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+    "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.086324, 51.525206]
+      },
+      "properties": {
+        "title": "JS School!",
+        "marker-shape": "pin",
+        "marker-color": "#5EA8ED"
+      }
+    }
+  ]
+}
+
