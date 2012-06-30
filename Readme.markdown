@@ -104,3 +104,14 @@ Using GDAL
 **Information about a file**
 
 `ogrinfo file.shp -al -so`
+
+
+Data Sources
+------------
+
+**Open Street Map:** - see top
+
+**Natural Earth:** http://www.naturalearthdata.com/downloads/
+
+**SRTM Topographic Data:** http://www2.jpl.nasa.gov/srtm/
+
